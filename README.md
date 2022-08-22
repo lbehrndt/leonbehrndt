@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Leon</h1>
-<h3 align="center">A passionate Software Engineer from Germany.</h3>
+<h1 align="left">Hi 👋, I'm Leon</h1>
+<h3 align="left">A passionate Software Engineer from Germany.</h3>
 
 - 🔭 I’m currently working on [a website that lets you create your own personal website in just a few minutes](https://github.com/leonbehrndt/Personali)
 
