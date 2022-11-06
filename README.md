@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Leon</h1>
 <h3 align="left">A passionate Software Engineer from Germany.</h3>
 
-- 🔭 I’m currently working on [a website that lets you create your own personal website in just a few minutes](https://github.com/leonbehrndt/Personali)
+- 🔭 I’m currently working on [an Course based web application for a company](https://github.com/leonbehrndt/SoPra)
 
 - 📫 How to reach me **leonbehrndt1@gmail.com**
 
