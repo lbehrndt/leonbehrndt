@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [a course based learning plattform for company intern tests](https://github.com/leonbehrndt/SoPra).
 
-- 🌱 I’m currently learning **Vue.js and Spring**
+- 🌱 I’m currently learning **React and Docker**
 
 - 📫 How to reach me **leonbehrndt1@gmail.com**
 
