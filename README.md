@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Leon</h1>
 <h3 align="center">A passionate Software Engineer from Germany.</h3>
 
-- 🔭 I’m currently working on [a course based learning plattform for company intern tests](https://github.com/leonbehrndt/SoPra).
+- 🔭 I’m currently working on a way to **tackle the housing crisis**.
 
-- 🌱 I’m currently learning **React and Docker**
+- 🌱 I’m currently learning **NEXT.JS**
 
 - 📫 How to reach me **leonbehrndt1@gmail.com**
 
